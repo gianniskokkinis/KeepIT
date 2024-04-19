@@ -50,16 +50,6 @@ public class Main implements ActionListener,KeyListener{
     private int y;
 
     //constructor
-    //(Original)
-    // public Main(){
-    //     DisplayWindow(random.nextInt(450), random.nextInt(350));
-    //     DisplayTextArea();
-    //     DisplayMenu();
-    //     //always display
-    //     window.setVisible(true);
-    // }
-
-    //constructor
     public Main(){
         DisplayWindow(random.nextInt(450), random.nextInt(350));
         DisplayTextArea();
