@@ -1,31 +1,42 @@
 # KeepIt
-**This is an app which i create to learn more stuff about java.**
 
+**KeepIt is a lightweight notepad application designed for simplicity and efficiency.**
 
-This is a simple notepad to keep your notes clean and safe. KeepIt has simple functions like save, edit, open files, and more for organizing your thoughts. The unique function of the program is the exit button, I hope you don't need a whole day to find it. 
+This project was created as a learning experience in Java development. KeepIt provides basic text editing functionality such as saving, editing, and opening files, all accessible through keyboard shortcuts. The unique feature of the program? Finding the exit button—hope it doesn't take you all day!
 
+## Features
+- Simple and minimalistic interface
+- Supports saving and opening text files
+- Keyboard shortcuts for quick navigation
+- No menus, just pure efficiency!
 
+## Supported Platforms
+- **Windows**
+- **Debian-based Linux distributions**
 
-Have Fun!
+## Requirements
+- Java Development Kit (JDK) 8+
+- Command Line Interface (CMD/Terminal)
 
+## How to Run the Program
 
-# Tools
-*Windows and Debian Linux only platforms support
+### Windows:
+1. Download the KeepIt folder.
+2. Run the `run.bat` script.
 
-*Java Version 8 
+### Debian Linux:
+1. Download the KeepIt folder.
+2. Open a terminal and navigate to the project directory.
+3. Compile the Java files:
+   ```sh
+   javac *.java
+   ```
+4. Run the program:
+   ```sh
+   java PreMenu
+   ```
 
+## Contribution & Future Updates
+KeepIt is an ongoing project, and I am actively working on improving it. If you have any ideas or suggestions, feel free to share them! Contributions and feedback are highly appreciated.
 
-*Java Development Kit
-
-
-*Command Prompt
-
-
-
-
-# How to run the program
-
-First of all, you need to download the folder KeepIt. If you working on windows platform, you can just open run.bat file script. If, you working from debian linux, you need to javac the *.java files and after run software with command "java PreMenu.java". I hope you like it and undestand the idea of the project. 
-
-OF COURSE, I'm keep working on that project and is not finish yet. If you have any idea, i would like to head that and help me to finish this project. Thank you.
-
+Thank you, and have fun using KeepIt!
